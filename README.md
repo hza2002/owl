@@ -12,16 +12,16 @@ Owl Split Keyboard is a split keyboard based on Lily58, [Corne](https://github.c
 ## Building your own
 Detailed [Build Guide](./doc/build.md).
 
-Please make sure you have the ability to build the keyboard yourself:
+Please make sure you can get the ability to build the keyboard:
 - Soldering circuit components
 - Circuit board production
 - 3D printing
-- Using GitHub to build firmware
-- Consulting documents
+- Using GitHub action to build firmware
+- Consulting documents carefully
 ## License
 ![Creative Commons License](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)
 
-The Owl Keyboard is licensed under Creative [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0).
+The Owl Keyboard is licensed under [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0).
 
 This PCB design may be freely reproduced, modified, and manufactured for personal use only. If you would like to use this design commercially please contact me at hza2002@foxmail.com to request permission.
 ## Thanks
