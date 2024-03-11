@@ -15,6 +15,7 @@ This is the complete construction guide for the Owl keyboard, please read it car
 | PCB sockets    | 46    | Compatible with MX and Gateron low profile, and Kailh choc if using choc version PCB |
 | Key switches   | 46    | Only compatible with MX style                                                        |
 | Keycaps        | 46    | 1u cap                                                                               |
+
 ![pcb](./assets/material/pcb.jpeg)
 ![Electronic components](./assets/material/electronic%20components.jpeg)
 ![switch](./assets/material/switch.jpeg)
@@ -25,6 +26,7 @@ This is the complete construction guide for the Owl keyboard, please read it car
 | :----------- | :---- | :------------------------------------------------- |
 | OLED         | 2     | 0.91 inches                                        |
 | SK6812MINI-E | 58    | Install all lights as they are connected in series |
+
 ![RGB and Oled](./assets/material/RGB%20Oled.jpeg)
 #### Case
 ##### General
@@ -44,6 +46,7 @@ This is the complete construction guide for the Owl keyboard, please read it car
 | Bottom plate  | 2     | At least 1.5mm               |
 | OLED cover    | 2     | At least 1mm                 |
 | Spacer M2 7mm | 10    | Between pcb and bottom plate |
+
 ![case-transparent](./assets/material/case-ransparent.jpeg)
 ##### 3D-printed
 
@@ -54,6 +57,7 @@ This is the complete construction guide for the Owl keyboard, please read it car
 | 3D-printed case<br>       | 2     | Please select printing materials freely |
 | OLED cover                | 2     | 2mm                                     |
 | Bottom plate              | 2     | 2mm                                     |
+
 ![case-3D](./assets/material/case-3D.jpeg)
 ## Assembly
 
