@@ -12,6 +12,8 @@ Owl Split Keyboard is a split keyboard based on Lily58, [Corne](https://github.c
 ## Building your own
 Detailed [Build Guide](./doc/build.md).
 
+![schematic](./doc/assets/schematic.jpeg)
+
 Please make sure you can get the ability to build the keyboard:
 - Soldering circuit components
 - Circuit board production

@@ -60,6 +60,35 @@ This is the complete construction guide for the Owl keyboard, please read it car
 
 ![case-3D](./assets/material/case-3D.jpeg)
 ## Assembly
+### Switch socket
+Please select the corresponding keyboard switch socket according to the selected PCB (**MX switch and Gateron low-profile switch for normal version, MX switch and Kailh low-profile switch for choc version**).
+
+![socket](./assets/assembly/socket.jpeg)
+### RGB light
+A single side needs 23 key lights and 6 bottom lights in series, so please install all or none at all. For the convenience of selection and manual soldering, we only use SK6812MINI-E. The position for installing the GND pin has been marked on the PCB. When installing, just pay attention to have the LED facing downwards and the bottom light facing upwards. **They are in opposite directions**.
+
+![RGB](./assets/assembly/RGB.jpeg)
+### Diode
+Each keyboard switch corresponds to a diode. You can freely choose between surface-mount diodes or through-hole diodes, and even install them on the front or back of the PCB (note that installing on the back **may conflict** with the case). In any case, **please make sure that the direction of the diode is correct**.
+
+![diode](./assets/assembly/diode.jpeg)
+### Switch and Battery
+The reset and boot switches, as well as the power socket, are very easy to solder. It is not necessary to elaborate here. It is worth noting that the protruding pins on the back of the straight plug switch should be polished and trimmed to avoid affecting the installation of the housing. **Please be careful to pay attention to the battery wire sequence**.
+
+![switch](./assets/assembly/switch.jpeg)
+### Chip and Oled
+Since the PCB is double-sided, you can install the chip on either side, whether it is directly soldered or connected with a socket. The position where the chip pins should be installed is marked on each side, be careful not to solder incorrectly.
+
+![chip install](./assets/assembly/chip%20install.jpeg)
+**If you want to use 3D printed shell, be sure to follow the steps below!**
+### Case
+#### 3D-printed
+#### transparent explorer
+This case does not have much to pay attention to, only using m2 screws and two-stage screws for connection.
+
+![transparent case](./assets/assembly/case-transparent.jpeg)
+### Key
+The final step is to install the keyboard switches and keycaps, just align them, very simple, please feel free to use your creativity to mix and match.
 
 ## Firmware
 This keyboard uses ZMK as firmware, please refer to my [zmk-config](https://github.com/hza2002/zmk-config) repository.
