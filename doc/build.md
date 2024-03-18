@@ -88,6 +88,8 @@ It is recommended to use the low-profile slot to install the chip on the front o
 #### 3D-printed
 First, install five hot-melt screws into the 3D printed case, then place the completed PCB inside, tighten the five screws, and finally install the back panel and front OLED acrylic.
 
+![3D-printed case install1](./assets/assembly/case-3D%20install-1.jpeg)
+![3D-printed case install2](./assets/assembly/case-3D%20install-2.jpeg)
 #### transparent explorer
 This case does not have much to pay attention to, only using m2 screws and two-stage screws for connection.
 
