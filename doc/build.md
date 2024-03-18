@@ -81,8 +81,13 @@ Since the PCB is double-sided, you can install the chip on either side, whether 
 
 ![chip install](./assets/assembly/chip%20install.jpeg)
 **If you want to use 3D printed shell, be sure to follow the steps below!**
+
+![recommand chip install](./assets/assembly/recommand%20chip%20install.jpeg)
+It is recommended to use the low-profile slot to install the chip on the front of the keyboard. Pay attention to installing the slot on the column marked on the PCB. When installing the chip, make sure that its back side (the flat side without components) faces up. Finally, when installing the OLED screen, please make sure they are installed tightly.
 ### Case
 #### 3D-printed
+First, install five hot-melt screws into the 3D printed case, then place the completed PCB inside, tighten the five screws, and finally install the back panel and front OLED acrylic.
+
 #### transparent explorer
 This case does not have much to pay attention to, only using m2 screws and two-stage screws for connection.
 
