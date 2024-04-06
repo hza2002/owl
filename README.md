@@ -1,5 +1,5 @@
-# Owl Split Keyboard
-Owl Split Keyboard is a split keyboard based on Lily58, [Corne](https://github.com/foostan/crkbd), Sofle and [Torn](https://github.com/rtitmuss/torn) keyboards.
+# Owl
+**Owl**, an acronym for **Orthogonal Wireless Layout**, combines the ergonomic freedom of wireless connectivity with a split keyboard design influenced by [Lily58](https://github.com/kata0510/Lily58), [Corne](https://github.com/foostan/crkbd), [Sofle](https://github.com/josefadamcik/SofleKeyboard) and [Torn](https://github.com/rtitmuss/torn) keyboards.
 ![Owl Split Keyboard](./doc/assets/owl%20split%20keyboard.jpg)
 ## Feature
 - Owl uses **Pro Micro** Interconnect small controller board, which means easy for Maintenance and replacemen. And supports a variety of boards including [nice!nano](https://nicekeyboards.com/nice-nano) and [nrfmicro](https://github.com/joric/nrfmicro/) (I **have not tried yet**, but theoretically feasible).
