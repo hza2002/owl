@@ -50,10 +50,4 @@ I took inspiration from other keyboards I'd used or liked:
 - [keyswitches.pretty](https://github.com/daprice/keyswitches.pretty) KiCAD footprint library for kailh choc and MX-style mechanical switches and their associated sockets.
 - [Keebio-Parts.pretty](https://github.com/keebio/Keebio-Parts.pretty) Various KiCAD footprints for mechanical keyboard parts.
 ## Gallery
-![trans-1](./doc/assets/trans-1.jpg)
-![trans3](./doc/assets/trans-3.jpg)
-![circuit](./doc/assets/circuit-1.jpg)
-![jade](./doc/assets/jade.jpg)
-![RGB](./doc/assets/RGB.jpg)
-![keyless](./doc/assets/keyless-2.jpg)
-![toy](doc/assets/toy-3.jpg)
+![gallery](./doc/assets/gallery.png)
